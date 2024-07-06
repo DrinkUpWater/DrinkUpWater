@@ -7,9 +7,9 @@
 - ⚡ Fun fact: ...
 
 ### GitHub.Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrinkUpWater)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrinkUpWater)]
 
 
 ### Solved.ac
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ciwdj)](https://solved.ac/profile/ciwdj)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ciwdj)]
