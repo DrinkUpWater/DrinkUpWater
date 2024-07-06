@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DrinkUpWater
 
 ### Most Languege
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrinkUpWater)](https://github.com/DrinkUpWater/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrinkUpWater)]
 
 ### GitHub.Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrinkUpWater)
