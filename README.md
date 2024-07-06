@@ -1,7 +1,6 @@
 <p align='center'>
     <img styled="width:100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=DrinkUpWater's%20GitHub&descAlignY=51&descAlign=62"/>
 </p>
-
 - 👋 Hi, I’m @DrinkUpWater
 
 ### Most Languege
