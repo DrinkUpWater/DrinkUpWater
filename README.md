@@ -11,4 +11,4 @@
 
 ### Solved.ac
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sprout6626)](https://solved.ac/ciwdj)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ciwdj)](https://solved.ac/ciwdj)
